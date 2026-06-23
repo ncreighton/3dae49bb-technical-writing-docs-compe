@@ -1,2 +1,28 @@
-# 3dae49bb-technical-writing-docs-compe
-Your competitors are updating their docs right now—and you have no idea what they're changing. Stop flying blind and get instant alerts when competitors publish new technical documentation or update existing guides.  The Technical Writing &amp; Docs Competitor Monitoring and Alert N8N Workflow automates the surveillance of competitor documentation chan
+# Technical Writing & Docs Competitor Monitoring and Alert N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu00j8v5bUE6xy1ZicZw22)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu00j8v5bUE6xy1ZicZw22)
+
